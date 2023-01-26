@@ -5,10 +5,10 @@
 
 <div id="socials" align="center">
 	<a href="https://leetcode.com/ooowler/">
-		<img src="https://img.shields.io/badge/LeetCode-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="LinkedIn"/>
+		<img src="https://img.shields.io/badge/LeetCode-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/>
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/Evgexac@yandex.ru-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Twitter"/>
+		<img src="https://img.shields.io/badge/Evgexac@yandex.ru-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Email"/>
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/@jekaForbes-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
